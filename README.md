@@ -23,8 +23,11 @@ cattleya-orchid-hummingbirds.html # Martin Johnson Heade artwork detail
 ```
 
 ## Credits
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 - Artwork images: Wikimedia Commons (public domain)
 - Bootstrap 5: https://getbootstrap.com/
 
 ---
-© 2025 Bristo Biju. For educational/demo use only.
+© 2025 Bristo Biju
